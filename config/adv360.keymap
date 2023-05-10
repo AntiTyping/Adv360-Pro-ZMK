@@ -63,7 +63,7 @@
  &trans  &trans  &trans  &trans  &trans  &trans             &none                                                   &none  &trans  &trans  &trans  &kp LC(LG(LA(O))) &trans   &trans
  &trans  &trans  &kp LC(LG(LA(C)))  &trans  &trans  &trans             &none  &trans  &trans   &none   &none  &trans  &trans   &none  &trans  &trans  &trans   &kp LC(LG(LA(L)))   &trans   &trans
  &trans  &trans  &trans  &kp LC(LG(LA(C)))  &trans  &trans             &none   &none  &trans   &none   &none  &trans   &none   &none  &trans  &kp LC(LG(LA(M)))  &trans   &trans   &trans   &trans
- &trans  &trans  &trans  &trans  &trans                    &trans  &trans  &trans                  &trans  &trans  &trans          &trans  &trans   &trans   &trans   &trans
+ &trans  &trans  &trans  &trans  &trans                    &trans  &trans  &trans                  &trans  &trans  &kp LA(F12)          &trans  &trans   &trans   &trans   &trans
             >;
         };
 
