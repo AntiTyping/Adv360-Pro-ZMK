@@ -39,5 +39,5 @@ copy_line: copy_line{
 compatible = "zmk,behavior-macro";
 label = "macro_kinesis";
 #binding-cells = <0>;
-bindings = <&kp HOME>, <&kp LS(END)>, <&kp LG(C)>;
+bindings = <&kp LEFT>, <&kp LEFT>, <&kp LS(RIGHT)>, <&kp LG(C)>;
 };
