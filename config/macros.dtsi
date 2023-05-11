@@ -45,5 +45,5 @@ delete_line: copy_line{
 compatible = "zmk,behavior-macro";
 label = "macro_kinesis";
 #binding-cells = <0>;
-bindings = <&kp LG(RIGHT)>, <&kp LS(LG(LEFT))>, <&kp LS(LG(LEFT))>, <&kp LG(X)>, <&kp DELETE>;
+bindings = <&kp LG(RIGHT)>, <&kp LS(LG(LEFT))>, <&kp LS(LG(LEFT))>, <&kp LG(X)>;
 };
